@@ -49,6 +49,5 @@ A PHP-based water bill management system where users can register, log in, repor
 ## Notes
 
 * This project uses PHP and JSON files instead of a database.
-* The application was created for a PHP assignment.
 * No external framework is required.
 * The project runs locally using a PHP server.
